@@ -6,11 +6,11 @@ require 'helloRomania/version'
 Gem::Specification.new do |spec|
   spec.name          = "helloRomania"
   spec.version       = HelloRomania::VERSION
-  spec.authors       = ["TODO: George Mihai"]
-  spec.email         = ["TODO: mmehedin@uncc.edu"]
+  spec.authors       = ["George Mihai"]
+  spec.email         = ["mmehedin@uncc.edu"]
 
-  spec.summary       = %q{TODO: Say Hello Romania}
-  spec.description   = %q{TODO: Hello}
+  spec.summary       = %q{Say Hello Romania}
+  spec.description   = %q{Hello}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
